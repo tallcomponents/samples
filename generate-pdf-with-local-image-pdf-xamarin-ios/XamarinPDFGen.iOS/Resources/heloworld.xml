@@ -1,0 +1,8 @@
+﻿<document>
+    <section>
+        <paragraph type="textparagraph">
+            <fragment>Hello world</fragment>
+        </paragraph>
+        <paragraph type="XamarinPDFGen.ResourceImage" path="foopdf.jpg"/>
+    </section>
+</document>
